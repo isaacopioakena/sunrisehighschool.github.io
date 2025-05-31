@@ -71,7 +71,7 @@ body {
 /* HERO SECTION */
 
 .hero {
-    background: url('images/hero-background.jpg') center/cover no-repeat;
+    background: url('hero-background.jpg') center/cover no-repeat;
     color: var(--white);
     text-align: center;
     padding: 4rem 1rem;
